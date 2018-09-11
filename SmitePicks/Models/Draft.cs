@@ -7,6 +7,8 @@ namespace SmitePicks.Models
 {
     public class Draft
     {
+        public int Id { get; set; }
+
         public string Team1Pick1 { get; set; }
 
         public string Team1Pick2 { get; set; }

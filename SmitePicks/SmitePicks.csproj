@@ -171,6 +171,8 @@
     <Compile Include="Models\Draft.cs" />
     <Compile Include="Models\Enums.cs" />
     <Compile Include="Models\Game.cs" />
+    <Compile Include="Models\Mappings\DraftMapping.cs" />
+    <Compile Include="Models\Mappings\GameMapping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
